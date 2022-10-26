@@ -10,7 +10,7 @@ I have great passion for learning new skills and developing myself. I am also a 
 ## 
 
 - 🌍 I reside in Ibadan, Oyo State, Nigeria
-- I have a Bachelor of Science (BS) degree in Microbiology from Redeemers University, Ede, Osun State.
+- I have a Bachelor of Science (BSc) degree in Microbiology from Redeemers University, Ede, Osun State.
 - 🤝  I'm open to collaborating on Frontend Development projects
 - I regularly work on developing myself
 - 🖥️  See my portfolio at [My portfolio](http://replit.com/@GOA14/Adeloye-Grace-Portfolio?v=1)
