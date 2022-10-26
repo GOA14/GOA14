@@ -14,7 +14,7 @@ I have great passion for learning new skills and developing myself. I am also a 
 - 🤝  I'm open to collaborating on Frontend Development projects
 - I regularly work on developing myself
 - 🖥️  See my portfolio at [My portfolio](http://replit.com/@GOA14/Adeloye-Grace-Portfolio?v=1)
-📫 How to reach me 08160842617 
+- 📫 How to reach me 08160842617 
 
 OR
 
