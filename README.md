@@ -37,9 +37,7 @@ OR
 
    <p align="left">
 
-                   
-[![Power BI](https://your-power-bi-icon-url.png)](https://app.powerbi.com/)
-       
+            
   
   FUN FACT
   ⚡️ To be honest, before i started programming i thought its as simple as print('HELLO WORLD')😄
