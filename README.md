@@ -38,10 +38,7 @@ OR
    <p align="left">
 
                    
-
-<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
-  <img src="https://your-power-bi-icon-url.png" width="32" height="32" alt="Power BI" />
-</a>
+[![Power BI](https://your-power-bi-icon-url.png)](https://app.powerbi.com/)
        
   
   FUN FACT
