@@ -1,6 +1,6 @@
 
 # Hi, I'm Adeloye Grace ! 👋
-A frontend Developer from Nigeria
+A Data Analyst from Nigeria
 ------------------
 
 ## 🚀 About Me
@@ -11,9 +11,9 @@ I have great passion for learning new skills and developing myself. I am also a 
 
 - 🌍 I reside in Ibadan, Oyo State, Nigeria
 - I have a Bachelor of Science (BSc) degree in Microbiology from Redeemers University, Ede, Osun State.
-- 🤝  I'm open to collaborating on Frontend Development projects
+- 🤝  I'm open to collaborating on any Data Analysis projects
 - I regularly work on developing myself
-- 🖥️  See my portfolio at [My portfolio](http://replit.com/@GOA14/Adeloye-Grace-Portfolio?v=1)
+- 🖥️  See my portfolio at [My portfolio](https://goa14.github.io/Grace-Adeloye-Portfolio/))
 - 📫 How to reach me 08160842617 
 
 OR
@@ -39,7 +39,9 @@ OR
 
                    
 
-<a href="https://www.codepen.io/GOA1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> CODEPEN
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+  <img src="https://your-power-bi-icon-url.png" width="32" height="32" alt="Power BI" />
+</a>
        
   
   FUN FACT
